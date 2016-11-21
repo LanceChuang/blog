@@ -1,5 +1,6 @@
 ---
 layout: post
+comments:True
 title: What's Jekyll?
 ---
 
