@@ -43,3 +43,6 @@ Hadoop is a large-scale distributed batch-processing infrastructure.
 * Task tracker
 	* Accept (map, reduce, shuffle) tasks from job trackers
 	* Send signal to job trackers that it is alive
+
+<h1 style="text-align: center;color: rgb(181, 208, 252);">MapReduce data flow</h1>
+![MapReduceDataFlow](http://i.imgur.com/oVBhdeN.png)
