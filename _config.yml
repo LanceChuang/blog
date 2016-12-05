@@ -4,9 +4,9 @@ highlighter:         rouge
 permalink:           pretty
 disqus_shortname:    lancechuang
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Lance
+tagline:             We do what we have to do
+url:                 https://github.com/LanceChuang
 paginate:            1
 baseurl:             ""
 
