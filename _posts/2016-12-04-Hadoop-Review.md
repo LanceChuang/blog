@@ -6,15 +6,15 @@ title: Hadoop Review
 
 Hadoop is a large-scale distributed batch-processing infrastructure.
 
-#Key Component
+# Key Component
 
-##HDFS(Hadoop Distributed File System)
+## HDFS(Hadoop Distributed File System)
 ---Distributed data storage with high reliability
 
-##MapReduce
+## MapReduce
 * A parallel, distributed computational paradigm
 
-##MapReduce
+## MapReduce
 * Map tasks(mappers)
 	* performs data transformation
 * Reduce tasks(reducers)
