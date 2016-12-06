@@ -46,3 +46,12 @@ Hadoop is a large-scale distributed batch-processing infrastructure.
 
 <h1 style="text-align: center;color: rgb(181, 208, 252);">MapReduce data flow</h1>
 ![MapReduceDataFlow](http://i.imgur.com/oVBhdeN.png)
+
+<h1 style="text-align: center; color: rgb(181, 208, 252);">Combiner</h1>
+![Combiner](http://i.imgur.com/NsnOwFo.png)
+
+* run on the node running the Mapper
+* combine mapper results
+	- before they are sent to reducers
+* may be used in WordCount
+	- (cat, 1), (cat, 1), (cat, 1) => (cat, 3)
